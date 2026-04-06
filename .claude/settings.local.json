@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet new:*)",
+      "Bash(mv NetRadar/NetRadar.csproj .)",
+      "Bash(mv NetRadar/Program.cs .)",
+      "Bash(rm -rf NetRadar)",
+      "Bash(rm -rf NetRadar/obj NetRadar/Program.cs NetRadar/NetRadar.csproj)",
+      "Bash(rmdir NetRadar)"
+    ]
+  }
+}

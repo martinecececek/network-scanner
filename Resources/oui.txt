@@ -1,0 +1,242 @@
+00:00:0C,Cisco Systems
+00:01:42,Cisco Systems
+00:0A:F3,Cisco Systems
+00:1B:54,Cisco Systems
+00:17:94,Cisco Systems
+00:1C:57,Cisco Systems
+FC:FB:FB,Cisco Systems
+58:AC:78,Cisco Systems
+00:15:5D,Microsoft
+00:50:F2,Microsoft
+28:18:78,Microsoft
+7C:1E:52,Microsoft
+00:50:56,VMware
+00:0C:29,VMware
+00:1C:14,VMware
+00:05:69,VMware
+08:00:27,Oracle VirtualBox
+00:21:F6,Apple
+00:23:32,Apple
+00:25:00,Apple
+00:26:B9,Apple
+04:54:53,Apple
+3C:07:54,Apple
+68:96:7B,Apple
+7C:6D:62,Apple
+A4:5E:60,Apple
+F0:18:98,Apple
+00:1A:11,Google
+54:60:09,Google
+F4:F5:D8,Google
+00:17:88,Philips Hue
+EC:B5:FA,Philips Hue
+00:17:AB,Synology
+00:11:32,Synology
+00:08:9B,QNAP Systems
+24:5E:BE,QNAP Systems
+00:90:A9,Western Digital
+00:14:EE,Western Digital
+00:50:43,3Com
+00:60:08,3Com
+00:0D:ED,Lenovo
+00:24:7E,Lenovo
+00:1E:C9,Dell
+14:18:77,Dell
+18:03:73,Dell
+B0:83:FE,Dell
+F8:CA:B8,Dell
+00:24:8C,HP Inc
+3C:D9:2B,HP Inc
+78:48:59,HP Inc
+9C:8E:99,HP Inc
+B4:99:BA,HP Enterprise
+00:17:A4,HP Enterprise
+3C:52:82,HP Enterprise
+00:1A:4B,Intel Corporate
+00:1B:21,Intel Corporate
+00:1C:C0,Intel Corporate
+00:1D:E0,Intel Corporate
+00:1E:64,Intel Corporate
+00:1F:3B,Intel Corporate
+00:21:6A,Intel Corporate
+00:22:FA,Intel Corporate
+8C:EC:4B,Intel Corporate
+00:1C:C0,Intel Corporate
+00:26:C6,Intel Corporate
+40:F0:2F,Intel Corporate
+A4:C3:F0,Intel Corporate
+00:14:A4,Ubiquiti Networks
+04:18:D6,Ubiquiti Networks
+0C:80:63,Ubiquiti Networks
+24:A4:3C,Ubiquiti Networks
+44:D9:E7,Ubiquiti Networks
+68:72:51,Ubiquiti Networks
+78:8A:20,Ubiquiti Networks
+00:14:78,TP-Link Technologies
+14:CC:20,TP-Link Technologies
+50:C7:BF,TP-Link Technologies
+54:AF:97,TP-Link Technologies
+74:DA:38,TP-Link Technologies
+98:DA:C4,TP-Link Technologies
+B0:4E:26,TP-Link Technologies
+C0:4A:00,TP-Link Technologies
+00:18:4D,Netgear
+00:26:F2,Netgear
+20:4E:7F,Netgear
+A0:21:B7,Netgear
+C0:FF:D4,Netgear
+00:1A:73,ASUS
+00:E0:4C,Realtek Semiconductor
+00:11:92,D-Link
+00:17:9A,D-Link
+00:1C:F0,D-Link
+00:26:5A,D-Link
+C8:BE:19,D-Link
+1C:3B:F3,D-Link
+00:0F:61,Juniper Networks
+00:19:E2,Juniper Networks
+28:8A:1C,Juniper Networks
+00:13:C6,MikroTik
+4C:5E:0C,MikroTik
+6C:3B:6B,MikroTik
+DC:2C:6E,MikroTik
+B8:27:EB,Raspberry Pi Foundation
+DC:A6:32,Raspberry Pi Trading
+E4:5F:01,Raspberry Pi Trading
+28:CD:C1,Raspberry Pi Trading
+00:1A:79,Amazon Technologies
+F0:27:2D,Amazon Technologies
+FC:A1:83,Amazon Technologies
+74:C2:46,Amazon Technologies
+00:FC:8B,Amazon Technologies
+18:74:2E,Amazon Technologies
+AC:63:BE,Amazon Technologies
+68:37:E9,Amazon Technologies
+00:0F:B5,Netgear
+70:3A:CB,ASUS
+04:92:26,ASUS
+08:60:6E,ASUS
+10:BF:48,ASUS
+2C:FD:A1,ASUS
+38:D5:47,ASUS
+00:24:01,ASUS
+04:D4:C4,Samsung Electronics
+08:D4:0C,Samsung Electronics
+10:D5:42,Samsung Electronics
+1C:AF:05,Samsung Electronics
+20:64:32,Samsung Electronics
+28:98:7B,Samsung Electronics
+2C:AE:2B,Samsung Electronics
+34:23:BA,Samsung Electronics
+3C:8B:FE,Samsung Electronics
+44:65:0D,Samsung Electronics
+50:01:BB,Samsung Electronics
+5C:F3:70,Samsung Electronics
+00:E0:91,Huawei Technologies
+04:C0:6F,Huawei Technologies
+0C:37:DC,Huawei Technologies
+10:47:80,Huawei Technologies
+20:F3:A3,Huawei Technologies
+2C:9D:1E,Huawei Technologies
+34:29:12,Huawei Technologies
+40:CB:C0,Huawei Technologies
+48:46:FB,Huawei Technologies
+54:89:98,Huawei Technologies
+00:9A:CD,Huawei Technologies
+F4:63:1F,Xiaomi Communications
+58:44:98,Xiaomi Communications
+64:09:80,Xiaomi Communications
+8C:BE:BE,Xiaomi Communications
+00:9E:C8,OnePlus Technology
+28:3B:82,Google Pixel
+F4:F5:D8,Google Nest
+00:1A:11,Google Home
+B8:81:98,Sonos
+00:0E:58,Sonos
+5C:AA:FD,Sonos
+B8:27:EB,Raspberry Pi
+78:E1:03,Brother Industries
+00:80:77,Brother Industries
+00:1B:A9,Brother Industries
+00:0D:3A,Brother Industries
+00:00:85,Canon Inc
+00:1E:8F,Canon Inc
+08:00:37,Canon Inc
+00:00:48,Epson Imaging
+00:26:AB,Epson Imaging
+AC:18:26,Epson Imaging
+00:00:F0,Samsung Printer
+00:60:B0,Hewlett Packard (Printer)
+00:80:A0,Hewlett Packard (Printer)
+08:00:09,Hewlett Packard (Printer)
+00:20:00,Lexmark International
+00:04:00,Lexmark International
+00:C0:F0,Kingston Technology
+00:26:18,Kingston Technology
+A4:C3:F0,Intel Wi-Fi
+00:1F:16,Netopia
+00:90:0B,3Com
+00:08:74,Dell
+00:06:5B,Dell
+00:0B:DB,Dell
+44:85:00,Dell
+90:B1:1C,Dell
+00:23:AE,Dell
+00:15:17,Intel
+00:1B:77,Intel
+00:1D:7E,Intel
+00:21:5C,Intel
+00:23:14,Intel
+00:27:10,Intel
+CC:3D:82,Intel
+8C:8D:28,Intel
+AC:ED:5C,Intel
+34:02:86,Intel
+00:04:23,Intel
+00:AA:00,Intel
+B4:B6:86,Intel
+00:23:8B,Cisco-Linksys
+00:1D:7E,Cisco-Linksys
+00:25:9C,Cisco-Linksys
+20:AA:4B,Cisco-Linksys
+68:7F:74,Cisco-Linksys
+00:1A:70,Cisco-Linksys
+00:17:3F,Cisco-Linksys
+00:22:6B,Cisco-Linksys
+58:6D:8F,Belkin International
+94:44:52,Belkin International
+00:30:BD,Belkin International
+08:86:3B,Belkin International
+94:10:3E,Belkin International
+30:23:03,Belkin International
+E8:9F:80,Belkin International
+00:1E:8C,ARRIS Group
+00:21:1E,ARRIS Group
+D4:05:98,ARRIS Group
+00:1A:A0,Fujitsu
+00:26:B9,Fujitsu
+84:39:BE,Fujitsu
+40:2C:F4,Roku
+B8:3E:59,Roku
+AC:3A:7A,Roku
+D4:E2:2F,Roku
+8C:56:C5,Roku
+CC:6D:A0,Roku
+00:10:18,Broadcom
+00:0A:F7,Broadcom
+00:17:F2,Apple AirPort
+00:03:93,Apple AirPort
+00:0A:95,Apple
+00:11:24,Apple
+00:14:51,Apple
+00:16:CB,Apple
+00:17:F2,Apple
+00:19:E3,Apple
+00:1C:B3,Apple
+00:1D:4F,Apple
+00:1E:52,Apple
+00:1F:F3,Apple
+00:21:E9,Apple
+00:22:41,Apple
+00:23:12,Apple
+00:23:6C,Apple
